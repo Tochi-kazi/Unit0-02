@@ -1,0 +1,35 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {778, 493}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{282, 229}, {200, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "94F7FD00-E91C-4531-B198-BE91F376DABC",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Hello, World!",
+          "name" : "hello_world_label",
+          "font_size" : 24
+        }
+      }
+    ],
+    "attributes" : {
+      "flex" : "",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)"
+    }
+  }
+]

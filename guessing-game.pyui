@@ -1,0 +1,88 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{175, 58}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{140, 144}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "A46D3DE2-1C97-411F-AE34-7697DE65470A",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "guess_number_textfield",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{17, 40}, {150, 57}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "B30C5D1D-C785-4D77-B66D-2BA518AE530A",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Type in your guessed number ",
+          "name" : "number_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{103, 138}, {112, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "guess_number_touch_up_inside",
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "Check",
+          "uuid" : "149FE990-E15B-4CF4-98DA-AD53576D195D",
+          "class" : "Button",
+          "name" : "check_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{74, 194}, {363, 75}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "8DA816FF-5F93-4BF2-A200-C839806FA8BB",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "answer_label",
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {480, 320}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

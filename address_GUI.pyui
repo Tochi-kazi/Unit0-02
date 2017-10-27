@@ -1,0 +1,70 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{168, 109}, {177, 44}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "7C6224FF-05A7-4068-967A-3D2486CDB242",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "“ottawa”",
+          "name" : "address_label",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{168, 176}, {170, 37}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "province_label",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "892C724B-515F-4754-9460-11A147F6F4D8",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "“ontario”",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{168, 23}, {202, 57}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "name_label",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "95BC9A41-7896-44E4-8CFC-16E2D0CFE2D5",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "“tochukwu, iroakazi”",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {480, 320}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
